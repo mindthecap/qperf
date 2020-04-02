@@ -8,5 +8,5 @@ Example:
 Server:
 qperf
 
-Client
+Client:
 qperf localhost -t 10 -ub tcp_bw tcp_lat udp_lat
